@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="79ddd1a5-40bb-48f8-b17b-90e9e09533b7"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="788fb321-9eb2-4122-abdf-6b16648f4d21"  >
+</g>
+<g transform="matrix(1.84 0 0 1.84 555.54 540)" id="Star-Copy"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,75,54); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-256.01, -235.77)" d="M 256 453.470866 C 222.937838 493.261163 163.879251 498.715393 124.088954 465.653231 C 97.4568793 443.524369 85.2044076 408.508817 92.2290824 374.602949 L 92.2290824 374.602949 L 92.2290824 374.602949 C 40.5058547 373.562754 -0.580861134 330.789548 0.459334005 279.06632 C 1.15554783 244.447406 20.8925179 213.036198 51.7810061 197.388347 L 51.7810061 197.388347 L 51.7810061 197.388347 C 20.3453584 156.300948 28.1696487 97.5094031 69.2570475 66.0737555 C 96.7572868 45.0335374 133.621358 40.8799541 165.113997 55.2732711 L 165.113997 55.2732711 L 165.113997 55.2732711 C 177.637614 5.07831794 228.48106 -25.4603346 278.676013 -12.9367184 C 312.272037 -4.55452693 338.503811 21.6772475 346.886003 55.2732711 L 346.886003 55.2732711 L 346.886003 55.2732711 C 393.938344 33.7685871 449.514794 54.4790557 471.019478 101.531397 C 485.412795 133.024037 481.259212 169.888108 460.218994 197.388347 L 460.218994 197.388347 L 460.218994 197.388347 C 506.368688 220.767398 524.827942 277.131582 501.448891 323.281277 C 485.80104 354.169765 454.389832 373.906735 419.770918 374.602949 L 419.770918 374.602949 L 419.770918 374.602949 C 430.266303 425.260832 397.708166 474.835352 347.050282 485.330738 C 313.144414 492.355412 278.128862 480.102941 256 453.470866 L 256 453.470866 L 256 453.470866 Z" stroke-linecap="round" />
+</g>
+</svg>
